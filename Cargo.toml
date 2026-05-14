@@ -5,5 +5,7 @@ members = [
     "stm32-adc",
     "stm32-pwm",
     "stm32-l3g4200d-gyro",
+    "cobs",
+    "w25qxx",
 ]
 resolver = "2"
