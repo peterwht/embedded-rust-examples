@@ -1,0 +1,6 @@
+[submodule "cobs"]
+	path = cobs
+	url = git@github.com:peterwht/cobs-encoding-rust.git
+[submodule "w25qxx"]
+	path = w25qxx
+	url = git@github.com:peterwht/w25qxx.git
